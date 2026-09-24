@@ -1,0 +1,9 @@
+jupyterlab
+notebook
+ipykernel
+debugpy
+matplotlib
+ipywidgets
+pygame
+
+# git+https://github.com/tuusuario/chumijuegos.git
